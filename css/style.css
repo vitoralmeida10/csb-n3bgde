@@ -1,5 +1,11 @@
 html {
   fonte-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -8,6 +14,7 @@ body {
   font-size: 1.6rem;
   text-shadow: 0 0 3px #000000;
   font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
 }
 
 .container-principal {
